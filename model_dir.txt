@@ -1,0 +1,1 @@
+/home/kiennt/vin-project/anybot/models/mistral-7b-v0.1.Q5_K_S.gguf
